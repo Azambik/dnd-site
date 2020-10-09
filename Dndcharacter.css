@@ -1,0 +1,19 @@
+.topb{
+    border-color: 5px,solid,black;
+    background-color: grey;
+    text-align: center;
+}
+.toph{
+    font-size: xx-large;
+}
+.subt{
+    font-size: 15px;
+}
+.strb{
+    background: green;
+    
+    
+    left: 100px;
+    position: relative; 
+    text-align: center;
+}
